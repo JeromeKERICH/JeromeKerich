@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Emmanuel Kerich<br>Passionate Web Developer<br> I’m currently learning Software Engineering<br><br>💬 Ask me about Dart, Flutter, CSS, Node JS, MySQL, MongoDB, Javascript, HTML<br><br>📫 How to reach me kericemman@gmail.com<br><br>⚡ Fun fact I think am creative
+Hi 👋, I'm Emmanuel Kerich<br>Passionate Web Developer <br> I specialise in helping solopreneurs, startup and business owners elevate their online presence with engaginga and interactive websites that convert<br>💬 Ask me about Dart, Flutter, CSS, Node JS, MySQL, MongoDB, Javascript, HTML<br><br>📫 How to reach me kericemman@gmail.com<br><br>⚡ Fun fact I think am creative
 
 
 ## 🌐 Socials:
