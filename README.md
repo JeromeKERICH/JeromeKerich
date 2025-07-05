@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Emmanuel Kerich<br>Enthusiastic web developer skilled in building responsive, user-focused websites that enhance engagement and provide seamless user experiences. <br>Proficient in HTML, CSS, JavaScript, modern frameworks like React and Vue.js, and back-end technologies including MySQL, PostgreSQL, APIs, and Node.js. <br>Exploring Web3 and currently advancing in React Native. <br>Passionate about transforming ideas into functional and visually striking web applications while continuously learning and creating innovative web solutions
+Hi 👋, I'm Emmanuel Kerich<br>Enthusiastic Full-Stack Web Developer skilled in building responsive, user-focused websites that enhance engagement and provide seamless user experiences. <br>Proficient in HTML, CSS, JavaScript, modern frameworks like React and Vue.js, and back-end technologies including MySQL, PostgreSQL, APIs, and Node.js. <br>Exploring Web3 and currently advancing in React Native. <br>Passionate about transforming ideas into functional and visually striking web applications while continuously learning and creating innovative web solutions
 
 
 ## 🌐 Socials:
